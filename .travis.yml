@@ -14,4 +14,4 @@ notifications:
         - "chat.freenode.net#dokuwiki"
     on_success: change
     on_failure: change
-script: cd _test && phpunit --verbose --stderr
+script: cd _test && phpunit --verbose --stderr --coverage-clover ../coverage.xml
