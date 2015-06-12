@@ -33,6 +33,7 @@
 !/data/pages/wiki/welcome.txt
 /lib/tpl/*
 !/lib/tpl/dokuwiki
+!/lib/tpl/dokuwiki_luh
 !/lib/tpl/index.php
 /lib/plugins/*
 !/lib/plugins/acl
